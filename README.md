@@ -1,3 +1,3 @@
 # Demo
 
-Description in plain text. 
+Description in plain text!
